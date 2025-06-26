@@ -25,7 +25,11 @@ This project also references videos and official documentation:
 
 ## 🖼️ Screenshot Preview
 Here’s a preview of the deployed app interface:
-![Project Screenshot](screenshot.png)
+![Project Screenshot](ss.png)
+
+## 🌐 Live Demo
+You can also visit the live version of this project here:  
+👉 [https://strong-muffin-5a0a28.netlify.app/](https://strong-muffin-5a0a28.netlify.app/)
 
 ## 📝 How to Run Locally
 1. Clone this repository:
